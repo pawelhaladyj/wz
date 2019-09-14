@@ -11,5 +11,5 @@ public class Company {
     private String phoneNumber;
     private Address registryAddress;
 
-    private Set<Address> addresses;
+    private Set<Address> deliveryAddresses;
 }

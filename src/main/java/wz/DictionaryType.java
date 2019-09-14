@@ -1,9 +1,19 @@
 package wz;
 
 public enum DictionaryType {
+    CERTIFICATE,
     RECEIPT_NUMBER,
     RESISTANCE,
     COMPOUND_TYPE,
+    FROST_RESISTANCE,
+    CONSISTANCY,
+    DICHLORIDE,
+    EXPOSURE,
+    ADDONS,
+    AGREGATES,
+    DMAX,
+    CEMENT_TYPE,
+    ADITIONS,
     CONSTANT1,
     CONSTANT2,
     CONSTANT3,
