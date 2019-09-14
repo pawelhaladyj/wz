@@ -1,0 +1,14 @@
+package wz;
+
+public enum DictionaryType {
+    RECEIPT_NUMBER,
+    RESISTANCE,
+    COMPOUND_TYPE,
+    CONSTANT1,
+    CONSTANT2,
+    CONSTANT3,
+    CONSTANT4,
+    CONSTANT5,
+    CONSTANT6,
+    REGISTRATION_PLATE_NUMBER
+}
