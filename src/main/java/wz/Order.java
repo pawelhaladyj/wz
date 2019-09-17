@@ -1,5 +1,7 @@
 package wz;
 
+import wz.product.Product;
+
 public class Order {
     private Long id;
     private String productDescription;

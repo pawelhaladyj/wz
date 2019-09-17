@@ -12,4 +12,5 @@ public class Company {
     private Address registryAddress;
 
     private Set<Address> deliveryAddresses;
+    private Long paleteBalance;
 }
